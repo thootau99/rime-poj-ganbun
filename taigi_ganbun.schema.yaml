@@ -8,7 +8,7 @@
 schema: # 輸入法方案
   schema_id: taigi_ganbun # 輸入法ID
   name: 台語POJ ganbun輸入法  # 輸入法名稱
-  version: "1.0.0"  # 版本號碼
+  version: "1.0.1"  # 版本號碼
   description: 台語POJ漢羅輸入法
   author:
     - Ngô͘ Hê-bí <ngoohebi@gmail.com>
